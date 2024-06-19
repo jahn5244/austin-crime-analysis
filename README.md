@@ -6,9 +6,9 @@ This project involves analyzing crime data to understand various patterns and re
 
 The following data points can be downloaded from this link here: https://data.austintexas.gov/Public-Safety/Crime-Reports/fdj4-gpfu/about_data
 
-##Analysis
+## Analysis
 
 All analysis and results that were found in this case study are all written in the two report pdfs in this repository.
 
-##License
+## License
 This project is licensed under the MIT License.
